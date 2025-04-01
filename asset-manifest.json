@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OpenSpaceFeedback/static/css/main.e6c13ad2.css",
+    "main.js": "/OpenSpaceFeedback/static/js/main.91ad2b5e.js",
+    "static/js/453.28d2eed1.chunk.js": "/OpenSpaceFeedback/static/js/453.28d2eed1.chunk.js",
+    "index.html": "/OpenSpaceFeedback/index.html",
+    "main.e6c13ad2.css.map": "/OpenSpaceFeedback/static/css/main.e6c13ad2.css.map",
+    "main.91ad2b5e.js.map": "/OpenSpaceFeedback/static/js/main.91ad2b5e.js.map",
+    "453.28d2eed1.chunk.js.map": "/OpenSpaceFeedback/static/js/453.28d2eed1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.91ad2b5e.js"
+  ]
+}
